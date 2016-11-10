@@ -1,0 +1,16 @@
+E:\oleg\apps\It4Medicine\It4Medicine\bin\Debug\It4Medicine.exe.config
+E:\oleg\apps\It4Medicine\It4Medicine\bin\Debug\It4Medicine.exe
+E:\oleg\apps\It4Medicine\It4Medicine\bin\Debug\It4Medicine.pdb
+E:\oleg\apps\It4Medicine\It4Medicine\obj\Debug\It4Medicine.exe
+E:\oleg\apps\It4Medicine\It4Medicine\obj\Debug\It4Medicine.pdb
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.exe.config
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.exe
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.pdb
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\obj\Debug\It4Medicine.csprojResolveAssemblyReference.cache
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\obj\Debug\It4Medicine.exe
+d:\projects\Projects\Test\Korn\Test_It4Medicine-master\It4Medicine\obj\Debug\It4Medicine.pdb
+C:\Users\olli\Downloads\Test_It4Medicine-master (1)\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.exe.config
+C:\Users\olli\Downloads\Test_It4Medicine-master (1)\Test_It4Medicine-master\It4Medicine\obj\Debug\It4Medicine.exe
+C:\Users\olli\Downloads\Test_It4Medicine-master (1)\Test_It4Medicine-master\It4Medicine\obj\Debug\It4Medicine.pdb
+C:\Users\olli\Downloads\Test_It4Medicine-master (1)\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.exe
+C:\Users\olli\Downloads\Test_It4Medicine-master (1)\Test_It4Medicine-master\It4Medicine\bin\Debug\It4Medicine.pdb
